@@ -1,0 +1,8 @@
+{
+  "name": "office-manager",
+  "version": "1.0.0",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "lodash": "^4.17.21"
+  }
+}
